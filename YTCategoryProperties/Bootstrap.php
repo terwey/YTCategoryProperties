@@ -33,6 +33,7 @@ class Shopware_Plugins_Core_CategoryProperties_Bootstrap extends Shopware_Compon
 			'version' => $this->getVersion(),
 			'label' => $this->getLabel(),
 			'supplier' => 'Yorick Terweijden IT Advice',
+			'license' => 'MIT',
 			'description' => 'Allows the seperation of properties on basis of a category.',
 			'support' => 'Email: twisted@itadvice.de',
 			'link' => 'http://www.itadvice.de'
